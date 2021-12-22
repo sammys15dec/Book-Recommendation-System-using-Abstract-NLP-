@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import re
-!pip install sklearn
+pip install sklearn
 from sklearn import preprocessing
 
 st.title('Book Recommendation System')
